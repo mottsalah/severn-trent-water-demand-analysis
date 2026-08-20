@@ -1,0 +1,7 @@
+scenario_name,start_year,end_year,pcc_target_lhd,population_change_end_pct,nhh_change_end_pct,leakage_change_end_pct,description
+Published Baseline,2025,2044,,0,0,0,Published Severn Trent baseline trajectory with no additional adjustments
+PCC 110,2025,2044,110,0,0,0,Illustrative household efficiency case reaching 110 litres per head per day by 2044-45
+Higher Population Stress,2025,2044,,3,0,0,Illustrative population sensitivity ending 3 percent above the published baseline
+Non-Household Efficiency,2025,2044,,0,-10,0,Illustrative non-household demand reduction ending 10 percent below baseline
+Combined Efficiency,2025,2044,110,0,-10,-20,Illustrative combined PCC non-household and leakage demand-management case
+Growth plus Efficiency,2025,2044,110,3,-10,-20,Illustrative combined efficiency case with population ending 3 percent above baseline

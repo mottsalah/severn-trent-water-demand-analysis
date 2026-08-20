@@ -1,0 +1,151 @@
+sheet,line,data_requirement,units,financial_year,year_start,value
+Table 2,1,Deployable output (supply) forecast,Ml/d,2020-21,2020,1457.5003124364475
+Table 2,1,Deployable output (supply) forecast,Ml/d,2021-22,2021,1447.50031243645
+Table 2,1,Deployable output (supply) forecast,Ml/d,2022-23,2022,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2023-24,2023,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2024-25,2024,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2025-26,2025,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2026-27,2026,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2027-28,2027,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2028-29,2028,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2029-2030,2029,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2030-2031,2030,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2031-2032,2031,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2032-33,2032,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2033-34,2033,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2034-35,2034,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2035-36,2035,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2036-37,2036,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2037-38,2037,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2038-39,2038,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2039-40,2039,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2040-41,2040,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2041-42,2041,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2042-43,2042,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2043-44,2043,1428.8163127490143
+Table 2,1,Deployable output (supply) forecast,Ml/d,2044-45,2044,1428.8163127490143
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2020-21,2020,0.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2021-22,2021,0.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2022-23,2022,-12.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2023-24,2023,-14.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2024-25,2024,-16.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2025-26,2025,-18.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2026-27,2026,-20.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2027-28,2027,-22.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2028-29,2028,-24.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2029-2030,2029,-26.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2030-2031,2030,-27.5
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2031-2032,2031,-28.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2032-33,2032,-28.5
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2033-34,2033,-29.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2034-35,2034,-29.5
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2035-36,2035,-30.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2036-37,2036,-30.5
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2037-38,2037,-31.000000000000004
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2038-39,2038,-31.5
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2039-40,2039,-32.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2040-41,2040,-32.5
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2041-42,2041,-33.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2042-43,2042,-33.5
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2043-44,2043,-34.0
+Table 2,2,Change in deployable output (supply) forecast due to climate change,Ml/d,2044-45,2044,-34.5
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2020-21,2020,0.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2021-22,2021,0.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2022-23,2022,0.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2023-24,2023,0.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2024-25,2024,0.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2025-26,2025,-5.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2026-27,2026,-5.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2027-28,2027,-5.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2028-29,2028,-5.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2029-2030,2029,-5.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2030-2031,2030,-90.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2031-2032,2031,-90.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2032-33,2032,-90.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2033-34,2033,-90.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2034-35,2034,-90.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2035-36,2035,-95.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2036-37,2036,-95.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2037-38,2037,-95.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2038-39,2038,-95.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2039-40,2039,-95.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2040-41,2040,-95.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2041-42,2041,-95.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2042-43,2042,-95.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2043-44,2043,-95.0
+Table 2,3,Deployable output  (supply) forecast reductions to restore sustainable abstraction (abstraction licence reductions),Ml/d,2044-45,2044,-95.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2020-21,2020,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2021-22,2021,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2022-23,2022,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2023-24,2023,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2024-25,2024,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2025-26,2025,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2026-27,2026,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2027-28,2027,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2028-29,2028,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2029-2030,2029,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2030-2031,2030,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2031-2032,2031,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2032-33,2032,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2033-34,2033,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2034-35,2034,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2035-36,2035,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2036-37,2036,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2037-38,2037,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2038-39,2038,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2039-40,2039,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2040-41,2040,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2041-42,2041,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2042-43,2042,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2043-44,2043,0.0
+Table 2,4,Total other changes to deployable output (supply) forecast (e.g. nitrates),Ml/d,2044-45,2044,0.0
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2020-21,2020,52.713946583366585
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2021-22,2021,38.08
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2022-23,2022,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2023-24,2023,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2024-25,2024,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2025-26,2025,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2026-27,2026,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2027-28,2027,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2028-29,2028,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2029-2030,2029,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2030-2031,2030,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2031-2032,2031,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2032-33,2032,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2033-34,2033,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2034-35,2034,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2035-36,2035,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2036-37,2036,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2037-38,2037,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2038-39,2038,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2039-40,2039,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2040-41,2040,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2041-42,2041,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2042-43,2042,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2043-44,2043,37.426549384266835
+Table 2,5,"Raw water losses, treatment works losses and operational use",Ml/d,2044-45,2044,37.426549384266835
+Table 2,6,Outage allowance,Ml/d,2020-21,2020,34.22718361689675
+Table 2,6,Outage allowance,Ml/d,2021-22,2021,50.87830895166869
+Table 2,6,Outage allowance,Ml/d,2022-23,2022,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2023-24,2023,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2024-25,2024,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2025-26,2025,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2026-27,2026,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2027-28,2027,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2028-29,2028,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2029-2030,2029,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2030-2031,2030,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2031-2032,2031,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2032-33,2032,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2033-34,2033,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2034-35,2034,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2035-36,2035,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2036-37,2036,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2037-38,2037,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2038-39,2038,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2039-40,2039,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2040-41,2040,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2041-42,2041,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2042-43,2042,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2043-44,2043,124.05969610923822
+Table 2,6,Outage allowance,Ml/d,2044-45,2044,124.05969610923822

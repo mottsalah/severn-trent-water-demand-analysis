@@ -1,0 +1,14 @@
+Severn Trent WRMP24 Strategic Grid source inspection
+Source: Water-resources-market-information22-Strategic-Grid.xlsx
+Sheets: 10
+
+Cover sheet: 12 non-empty rows x 3 non-empty columns
+Change log: 6 non-empty rows x 5 non-empty columns
+Table 1: 49 non-empty rows x 7 non-empty columns
+Table 2: 22 non-empty rows x 86 non-empty columns
+Table 3: 40 non-empty rows x 86 non-empty columns
+Table 4: 20 non-empty rows x 86 non-empty columns
+Table 5: 16 non-empty rows x 86 non-empty columns
+Table 6: 32 non-empty rows x 86 non-empty columns
+Table 7: 20 non-empty rows x 86 non-empty columns
+Table 8: 45 non-empty rows x 69 non-empty columns

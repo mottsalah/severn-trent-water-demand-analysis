@@ -1,0 +1,5 @@
+check,status,detail
+All scenarios produced,PASS,6 of 6 scenarios
+No missing scenario demand,PASS,Scenario DI complete
+Published baseline unchanged,PASS,Baseline delta is zero
+SDB formula reconciles,PASS,SDB formula exact

@@ -1,0 +1,9 @@
+check,status,detail
+Source years extracted,PASS,25 annual rows
+No duplicate years,PASS,25 unique years
+Population positive,PASS,All extracted population values > 0
+Distribution input positive,PASS,All extracted DI values > 0
+PCC plausible,PASS,Average PCC between 80 and 200 l/h/d
+Metering penetration in range,PASS,All values between 0 and 1
+SDB reconciles to published,PASS,Max error 0.000000 Ml/d
+Demand components reconcile,PASS,Max error 0.00000000 Ml/d

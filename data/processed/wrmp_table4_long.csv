@@ -1,0 +1,126 @@
+sheet,line,data_requirement,units,financial_year,year_start,value
+Table 4,1,Distribution input (demand),Ml/d,2020-21,2020,1278.8418746127709
+Table 4,1,Distribution input (demand),Ml/d,2021-22,2021,1264.08413261521
+Table 4,1,Distribution input (demand),Ml/d,2022-23,2022,1224.5471177292657
+Table 4,1,Distribution input (demand),Ml/d,2023-24,2023,1227.2280321379367
+Table 4,1,Distribution input (demand),Ml/d,2024-25,2024,1229.2510824099872
+Table 4,1,Distribution input (demand),Ml/d,2025-26,2025,1232.3736894596336
+Table 4,1,Distribution input (demand),Ml/d,2026-27,2026,1234.9856447408185
+Table 4,1,Distribution input (demand),Ml/d,2027-28,2027,1237.6499829131596
+Table 4,1,Distribution input (demand),Ml/d,2028-29,2028,1239.8337041368081
+Table 4,1,Distribution input (demand),Ml/d,2029-2030,2029,1243.2677085456094
+Table 4,1,Distribution input (demand),Ml/d,2030-2031,2030,1244.7047272771404
+Table 4,1,Distribution input (demand),Ml/d,2031-2032,2031,1246.2407972766055
+Table 4,1,Distribution input (demand),Ml/d,2032-33,2032,1247.1337763290578
+Table 4,1,Distribution input (demand),Ml/d,2033-34,2033,1249.2791475705253
+Table 4,1,Distribution input (demand),Ml/d,2034-35,2034,1250.7667307863821
+Table 4,1,Distribution input (demand),Ml/d,2035-36,2035,1252.8582037811996
+Table 4,1,Distribution input (demand),Ml/d,2036-37,2036,1254.4257011848688
+Table 4,1,Distribution input (demand),Ml/d,2037-38,2037,1257.3233255830457
+Table 4,1,Distribution input (demand),Ml/d,2038-39,2038,1259.5361842203815
+Table 4,1,Distribution input (demand),Ml/d,2039-40,2039,1261.8524971442707
+Table 4,1,Distribution input (demand),Ml/d,2040-41,2040,1263.5417505061093
+Table 4,1,Distribution input (demand),Ml/d,2041-42,2041,1266.5659812375702
+Table 4,1,Distribution input (demand),Ml/d,2042-43,2042,1269.0282936615959
+Table 4,1,Distribution input (demand),Ml/d,2043-44,2043,1271.5136992825187
+Table 4,1,Distribution input (demand),Ml/d,2044-45,2044,1273.4676546352034
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2020-21,2020,1362.5591822361841
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2021-22,2021,1358.542003484779
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2022-23,2022,1292.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2023-24,2023,1290.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2024-25,2024,1288.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2025-26,2025,1281.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2026-27,2026,1279.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2027-28,2027,1277.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2028-29,2028,1275.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2029-2030,2029,1273.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2030-2031,2030,1187.256616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2031-2032,2031,1186.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2032-33,2032,1186.256616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2033-34,2033,1185.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2034-35,2034,1185.256616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2035-36,2035,1179.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2036-37,2036,1179.256616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2037-38,2037,1178.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2038-39,2038,1178.256616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2039-40,2039,1177.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2040-41,2040,1177.256616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2041-42,2041,1176.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2042-43,2042,1176.256616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2043-44,2043,1175.756616639776
+Table 4,2,Water Available For Use (WAFU) - own sources,Ml/d,2044-45,2044,1175.256616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2020-21,2020,1341.659182236184
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2021-22,2021,1337.6420034847788
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2022-23,2022,1298.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2023-24,2023,1296.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2024-25,2024,1294.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2025-26,2025,1287.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2026-27,2026,1285.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2027-28,2027,1283.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2028-29,2028,1281.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2029-2030,2029,1279.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2030-2031,2030,1193.156616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2031-2032,2031,1192.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2032-33,2032,1192.156616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2033-34,2033,1191.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2034-35,2034,1191.156616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2035-36,2035,1185.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2036-37,2036,1185.156616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2037-38,2037,1184.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2038-39,2038,1184.156616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2039-40,2039,1183.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2040-41,2040,1183.156616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2041-42,2041,1182.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2042-43,2042,1182.156616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2043-44,2043,1181.656616639776
+Table 4,3,Total Water Available For Use (WAFU) – including transfers,Ml/d,2044-45,2044,1181.156616639776
+Table 4,4,Target Headroom (uncertainty),Ml/d,2020-21,2020,24.506819637312972
+Table 4,4,Target Headroom (uncertainty),Ml/d,2021-22,2021,21.947942643317955
+Table 4,4,Target Headroom (uncertainty),Ml/d,2022-23,2022,112.30648982052197
+Table 4,4,Target Headroom (uncertainty),Ml/d,2023-24,2023,131.2637054009932
+Table 4,4,Target Headroom (uncertainty),Ml/d,2024-25,2024,148.51574911516892
+Table 4,4,Target Headroom (uncertainty),Ml/d,2025-26,2025,145.0667581475241
+Table 4,4,Target Headroom (uncertainty),Ml/d,2026-27,2026,159.70734978283258
+Table 4,4,Target Headroom (uncertainty),Ml/d,2027-28,2027,184.1093820069576
+Table 4,4,Target Headroom (uncertainty),Ml/d,2028-29,2028,197.34208146426218
+Table 4,4,Target Headroom (uncertainty),Ml/d,2029-2030,2029,214.31323189429173
+Table 4,4,Target Headroom (uncertainty),Ml/d,2030-2031,2030,180.83515194033902
+Table 4,4,Target Headroom (uncertainty),Ml/d,2031-2032,2031,180.04576419586152
+Table 4,4,Target Headroom (uncertainty),Ml/d,2032-33,2032,183.95141973844306
+Table 4,4,Target Headroom (uncertainty),Ml/d,2033-34,2033,186.50530036454248
+Table 4,4,Target Headroom (uncertainty),Ml/d,2034-35,2034,191.4424314839486
+Table 4,4,Target Headroom (uncertainty),Ml/d,2035-36,2035,156.35414560043304
+Table 4,4,Target Headroom (uncertainty),Ml/d,2036-37,2036,157.44930187492062
+Table 4,4,Target Headroom (uncertainty),Ml/d,2037-38,2037,162.37093274058643
+Table 4,4,Target Headroom (uncertainty),Ml/d,2038-39,2038,160.9506728175178
+Table 4,4,Target Headroom (uncertainty),Ml/d,2039-40,2039,166.30726554874263
+Table 4,4,Target Headroom (uncertainty),Ml/d,2040-41,2040,133.74895645768882
+Table 4,4,Target Headroom (uncertainty),Ml/d,2041-42,2041,133.45777764493099
+Table 4,4,Target Headroom (uncertainty),Ml/d,2042-43,2042,136.4076086360843
+Table 4,4,Target Headroom (uncertainty),Ml/d,2043-44,2043,139.63264241872
+Table 4,4,Target Headroom (uncertainty),Ml/d,2044-45,2044,142.74031937651284
+Table 4,5,Supply Demand Balance,Ml/d,2020-21,2020,38.3104879861002
+Table 4,5,Supply Demand Balance,Ml/d,2021-22,2021,51.60992822625093
+Table 4,5,Supply Demand Balance,Ml/d,2022-23,2022,-38.196990910011564
+Table 4,5,Supply Demand Balance,Ml/d,2023-24,2023,-61.83512089915379
+Table 4,5,Supply Demand Balance,Ml/d,2024-25,2024,-83.11021488538009
+Table 4,5,Supply Demand Balance,Ml/d,2025-26,2025,-89.78383096738165
+Table 4,5,Supply Demand Balance,Ml/d,2026-27,2026,-109.03637788387505
+Table 4,5,Supply Demand Balance,Ml/d,2027-28,2027,-138.10274828034116
+Table 4,5,Supply Demand Balance,Ml/d,2028-29,2028,-155.51916896129424
+Table 4,5,Supply Demand Balance,Ml/d,2029-2030,2029,-177.92432380012502
+Table 4,5,Supply Demand Balance,Ml/d,2030-2031,2030,-232.3832625777033
+Table 4,5,Supply Demand Balance,Ml/d,2031-2032,2031,-233.6299448326909
+Table 4,5,Supply Demand Balance,Ml/d,2032-33,2032,-238.9285794277248
+Table 4,5,Supply Demand Balance,Ml/d,2033-34,2033,-244.1278312952917
+Table 4,5,Supply Demand Balance,Ml/d,2034-35,2034,-251.05254563055468
+Table 4,5,Supply Demand Balance,Ml/d,2035-36,2035,-223.55573274185653
+Table 4,5,Supply Demand Balance,Ml/d,2036-37,2036,-226.71838642001333
+Table 4,5,Supply Demand Balance,Ml/d,2037-38,2037,-235.0376416838561
+Table 4,5,Supply Demand Balance,Ml/d,2038-39,2038,-236.33024039812327
+Table 4,5,Supply Demand Balance,Ml/d,2039-40,2039,-244.5031460532373
+Table 4,5,Supply Demand Balance,Ml/d,2040-41,2040,-214.13409032402208
+Table 4,5,Supply Demand Balance,Ml/d,2041-42,2041,-217.36714224272512
+Table 4,5,Supply Demand Balance,Ml/d,2042-43,2042,-223.27928565790407
+Table 4,5,Supply Demand Balance,Ml/d,2043-44,2043,-229.48972506146262
+Table 4,5,Supply Demand Balance,Ml/d,2044-45,2044,-235.05135737194018
